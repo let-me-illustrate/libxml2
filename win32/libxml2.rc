@@ -1,5 +1,5 @@
 #include <winver.h>
-#include "rcVersion.h"
+#include "libxml/xmlversion.h"
 
 VS_VERSION_INFO		VERSIONINFO
   FILEVERSION		LIBXML_MAJOR_VERSION,LIBXML_MINOR_VERSION,LIBXML_MICRO_VERSION,0
